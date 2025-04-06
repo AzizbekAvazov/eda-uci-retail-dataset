@@ -27,3 +27,10 @@ This project performs an **Exploratory Data Analysis (EDA)** on the [UCI Online 
 ```bash
 git clone https://github.com/your-username/eda-uci-retail-dataset.git
 cd eda-uci-retail-dataset
+```
+### 2️⃣ Run the Jupyter Notebook
+```bash
+jupyter notebook
+```
+
+<!-- Keywords: Exploratory Data Analysis, EDA, Online Retail Dataset, UCI Machine Learning, Data Science, Data Visualization, Sales Analysis -->
