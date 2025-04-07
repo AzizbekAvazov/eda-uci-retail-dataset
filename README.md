@@ -25,7 +25,7 @@ This project performs an **Exploratory Data Analysis (EDA)** on the [UCI Online 
 ## 🛠️ Setup & Installation
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/eda-uci-retail-dataset.git
+git clone https://github.com/AzizbekAvazov/eda-uci-retail-dataset.git
 cd eda-uci-retail-dataset
 ```
 ### 2️⃣ Run the Jupyter Notebook
