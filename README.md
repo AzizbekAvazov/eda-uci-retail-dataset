@@ -9,6 +9,7 @@ This project performs an **Exploratory Data Analysis (EDA)** on the [UCI Online 
 - **Product Analysis:** Determine top-selling products, revenue drivers, and return-prone items.
 - **Temporal Patterns:** Examine sales cycles, peak times, and seasonal trends.
 - **Actionable Insights:** Provide recommendations for improving sales, reducing returns, and enhancing customer retention.
+- **Product Recommendation System:** Recommending products to customers based on purchase patterns.
 
 ---
 
@@ -33,4 +34,4 @@ cd eda-uci-retail-dataset
 jupyter notebook
 ```
 
-<!-- Keywords: Exploratory Data Analysis, EDA, Online Retail Dataset, UCI Machine Learning, Data Science, Data Visualization, Sales Analysis -->
+<!-- Keywords: Exploratory Data Analysis, EDA, Online Retail Dataset, UCI Machine Learning, Data Science, Data Visualization, Sales Analysis, Product Recommendation, Collaborative Filtering, Customer Behavior, Nearest Neighbors -->
