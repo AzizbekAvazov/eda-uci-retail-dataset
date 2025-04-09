@@ -29,9 +29,44 @@ This project performs an **Exploratory Data Analysis (EDA)** on the [UCI Online 
 git clone https://github.com/AzizbekAvazov/eda-uci-retail-dataset.git
 cd eda-uci-retail-dataset
 ```
-### 2️⃣ Run the Jupyter Notebook
+### 2️⃣ Install Dependencies
 ```bash
-jupyter notebook
+pip install -r requirements.txt
 ```
+### 3️⃣ Run the Jupyter Notebook
+```bash
+jupyter notebook notebooks/01_data_exploration.ipynb
+```
+Ensure the dataset file is present at:
+```
+data/uci_online_retail.xlsx
+```
+
+---
+
+## 📊 Folder Structure
+```bash
+.
+├── data/
+│   └── uci_online_retail.xlsx         # Raw dataset
+├── notebooks/
+│   └── 01_data_exploration.ipynb      # EDA + Recommendation System
+├── requirements.txt                   # Dependencies
+└── README.md
+```
+
+---
+
+## 🧠 Key Features
+- 📉 Data cleaning, anomaly detection using Isolation Forest
+- 🔄 Time-series and trend analysis
+- 📊 Rich visualizations (Seaborn, Matplotlib)
+- 🧑‍🤝‍🧑 Collaborative Filtering Recommendation System using KNN and Cosine Similarity
+
+---
+
+## ✅ License
+
+This project is open source and free to use under the MIT License.
 
 <!-- Keywords: Exploratory Data Analysis, EDA, Online Retail Dataset, UCI Machine Learning, Data Science, Data Visualization, Sales Analysis, Product Recommendation, Collaborative Filtering, Customer Behavior, Nearest Neighbors -->
